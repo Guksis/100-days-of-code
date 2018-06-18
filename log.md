@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 18, 2018
+### Day 0: June 18, 2018, Monday
 
 **Today's Progress**: Set up my github account. Found some sources for coding
 
